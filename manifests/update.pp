@@ -18,6 +18,7 @@ class sophos::update {
     command => 'sophosupdate',
     path => '/usr/bin',
     onlyif => "${update}",
+    timeout => 0,
   }
 
 }

@@ -1,2 +1,5 @@
+2013-09-13 - Ryan Skoblenick <ryan@skoblenick.com> - 0.1.1
+  * Disabled timeout to sophosupdate command
+
 2013-09-04 - Ryan Skoblenick <ryan@skoblenick.com> - 0.1.0
   * Initial version
