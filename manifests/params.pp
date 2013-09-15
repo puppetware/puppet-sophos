@@ -1,4 +1,4 @@
-# == Class: sophos:params
+# == Class: sophos::params
 #
 # Define default parameters.
 #
